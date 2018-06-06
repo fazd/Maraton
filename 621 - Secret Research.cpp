@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 typedef long long int ll;
 
+//NO TERMINADO
 
 using namespace std;
 
@@ -44,7 +45,7 @@ int main ()
 	while(n--){
 		string str;
 		cin>>str;
-		
+
 	}
 	return 0;
 }

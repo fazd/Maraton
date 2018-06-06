@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//no terminado
+
 int maxL(string str){
 	int maximo = 0;
 	vector<int> bit (51,0); 

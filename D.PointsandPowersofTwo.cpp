@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//NO TERMINADO
+
 bool dis (int a , int b){
 	int distancia = fabs(b-a);
     if ( distancia <= 0 ) {
